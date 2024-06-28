@@ -33,4 +33,4 @@ pip install -r requirements.txt
 Contributions are welcome! Please open an issue or submit a pull request for any features, bug fixes, or enhancements.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the Apache License. See the LICENSE file for details.
